@@ -1,0 +1,43 @@
+body{
+ background-repeat: no-repeat;
+ background-image: url("nichinan.jpg");
+ background-position: top center;
+ background-size: cover;
+}
+
+.logo{
+    float: left;
+}
+.header-nav_list {
+    font-size: 13px;
+    color: white;
+    float: right;
+    list-style: none;
+    margin-left: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+main{
+    padding-top: 20%;
+    color: gray;
+    text-align: center;
+    
+}
+.top h1{
+    font-family: "Open Sans", Arial, sans-serif;
+    color: white;
+    font-size: 65px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.top h2{
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+.button{
+    background-color: #3bc492;
+    font-size: 15px;
+}
